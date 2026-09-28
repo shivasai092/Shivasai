@@ -1,4 +1,4 @@
-# Shiva Sai Portfolio — Premium V2
+# Shiva Sai Portfolio
 
 Open `index.html` in Chrome, Edge, Firefox or Safari.
 
